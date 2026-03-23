@@ -31,6 +31,14 @@ Welcome to my portfolio website! This repository contains the source code for my
 - SEO optimization
 - Accessibility considerations
 
+## Getting Started
+
+### Clone the repository: 
+`git clone https://github.com/`
+
+## [Portfolio Website Click Here =>💁‍♂️🚀](https://chetan-sharma.netlify.app/)
+
 ## Screenshot:
+![image](https://github.com/user-attachments/assets/)
 
 **Feel free to explore the code and customize it to suit your needs also Like and Give Heart to `[Chetan Sharma](https://github.com/Ctnsrma)` ! Happy coding!**
